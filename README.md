@@ -1,6 +1,6 @@
 # Salesforce Developer Training
 
-Selçuk GÖKTAŞ [You can contact Linkedin for Business Inquires](https://www.linkedin.com/in/selcukgoktas/)
+Mini Project Coding practice with Apex, Visualforce, Aura, LWC
 
 # Salesforce Developer Notes
 
@@ -8,7 +8,7 @@ If you are new salesforce Development You can follow the link and start learning
 
 Students must be prepared from this repo and document below before attending the courses. 
 
-[Developer Notes From simple Apex to Advanced Deployment Topics ] (https://salesforce-consultant-developer.notion.site/Salesforce-Developer-Module-4b6a7600e1cd4c3d8da83a86fc248b0c)
+[Developer Notes From simple Apex to Advanced Deployment Topics ](https://salesforce-consultant-developer.notion.site/Salesforce-Developer-Module-4b6a7600e1cd4c3d8da83a86fc248b0c)
 
 # Contents
 
